@@ -1,1 +1,4 @@
+man-db
+manpages-posix
 nano
+tree
